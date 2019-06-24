@@ -41,13 +41,13 @@
     "parse5": "^5.0.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/iddan/react-native-canvas#readme",
+  "homepage": "https://github.com/harrie006/react-native-canvas#readme",
   "license": "MIT",
   "main": "dist/Canvas.js",
   "name": "react-native-canvas",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iddan/react-native-canvas.git"
+    "url": "git+https://github.com/harrie006/react-native-canvas.git"
   },
   "scripts": {
     "build": "babel src --out-dir dist --copy-files --compact false && node bundle-html.js ./dist/index.html",
