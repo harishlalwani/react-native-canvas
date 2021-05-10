@@ -2195,8 +2195,9 @@ cssstyle@^1.0.0:
   dependencies:
     cssom "0.3.x"
 
-"ctx-polyfill@github:lifaon74/ctx-polyfill":
+ctx-polyfill@lifaon74/ctx-polyfill:
   version "1.1.4"
+  uid f39f2d22be29dc87f211e1c363edb324bee173b4
   resolved "https://codeload.github.com/lifaon74/ctx-polyfill/tar.gz/f39f2d22be29dc87f211e1c363edb324bee173b4"
 
 dashdash@^1.12.0:
@@ -3227,8 +3228,8 @@ home-or-tmp@^3.0.0:
   resolved "https://registry.yarnpkg.com/home-or-tmp/-/home-or-tmp-3.0.0.tgz#57a8fe24cf33cdd524860a15821ddc25c86671fb"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
