@@ -2195,8 +2195,9 @@ cssstyle@^1.0.0:
   dependencies:
     cssom "0.3.x"
 
-"ctx-polyfill@github:lifaon74/ctx-polyfill":
+ctx-polyfill@lifaon74/ctx-polyfill:
   version "1.1.4"
+  uid f39f2d22be29dc87f211e1c363edb324bee173b4
   resolved "https://codeload.github.com/lifaon74/ctx-polyfill/tar.gz/f39f2d22be29dc87f211e1c363edb324bee173b4"
 
 dashdash@^1.12.0:
@@ -2863,10 +2864,8 @@ find-up@^2.0.0, find-up@^2.1.0:
     locate-path "^2.0.0"
 
 follow-redirects@^1.2.3:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.5.2.tgz#5a9d80e0165957e5ef0c1210678fc5c4acb9fb03"
-  dependencies:
-    debug "^3.1.0"
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
